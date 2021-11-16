@@ -1,0 +1,65 @@
+.navbar{
+    background: url(img/x1.jpg); 
+    display: flex;
+    background-size: cover;
+}
+
+.quem-somos{
+    background: url(img/ins.jpg);
+    height: 650px;
+    background-size: cover;
+    display: flex;
+    margin-top: 10px;
+    font-size: 50px;
+    font-display: flex  ;
+}
+
+.logo{
+    color-scheme: white;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+section .navbar-unity{
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+    
+
+}
+
+.topo{
+    font-size: 18px;
+    color: lightgoldenrodyellow;
+}
+
+.margin{
+    
+    margin-top: 1.75px;
+    padding-top: 2.5px;
+    justify-content: flex-start;
+    padding-bottom: 50px;
+    background-color: rgba(0,0,0,.50);
+}
+
+.margin1{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: lightgray;
+}
+
+.nav-link .navbar-brand{
+    font-size: 18px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.parceiros{
+    background-color: white ;
+}
